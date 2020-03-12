@@ -5,7 +5,7 @@
   <artifactId>hello-world-servlet-example</artifactId>
   <packaging>war</packaging>
   <version>1.1-SNAPSHOT</version>
-  <name>hello-world-servlet-example Maven Webapp</name>
+  <name>hello-world-servlet234-example Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <reporting>
     <plugins>
